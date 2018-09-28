@@ -1,6 +1,6 @@
 # This dockerfile for golang develop
 # VERSION: 0.1
-# Author: KEL(wjf1@meitu.com)
+# Author: KEL(gnefaijuw@gmail.com)
 
 # Base Image
 FROM golang:1.11-alpine3.8
